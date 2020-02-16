@@ -1,7 +1,9 @@
 # RC Makers Workshop 2020
 ## Computer Vision and Artificial Intelligence for Autonomous Vehicles by PhoeniX
 
-This repo includes the ipython notebooks which are used in the workshop
+This repo includes the ipython notebooks which are used in the workshop.
+
+All files are in Turkish for now (Original files used in the workshop).
 
 ## Workshop Instructors (Authors)
 * Cihan Alperen Bosnalı - [CihanBosnali](https://github.com/CihanBosnali)
