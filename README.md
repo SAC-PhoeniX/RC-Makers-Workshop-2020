@@ -4,5 +4,5 @@
 This repo includes the ipython notebooks which are used in the workshop
 
 ## Workshop Instructors (Authors)
-* Cihan Alperen Bosnalı - (CihanBosnali)[https://github.com/CihanBosnali]
-* Ekin Oral - (oralekin)[https://github.com/oralekin]
+* Cihan Alperen Bosnalı - [CihanBosnali](https://github.com/CihanBosnali)
+* Ekin Oral - [oralekin](https://github.com/oralekin)
